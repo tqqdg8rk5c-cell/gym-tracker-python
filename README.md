@@ -1,6 +1,7 @@
 # Gym Tracker (Python)
 
-A console-based fitness tracking application built in Python for logging and analysing workout data.
+A fitness tracking application built in Python for logging, storing, and analysing workout data.  
+Developed as a personal portfolio project to practise software design, data persistence, and user-focused application development.
 
 ---
 
@@ -11,20 +12,20 @@ A console-based fitness tracking application built in Python for logging and ana
 - CSV data storage and persistence
 - Search workouts by exercise name
 - Case-insensitive partial matching
-- Clean formatted console UI
-- Input validation & error handling
+- Clean formatted console interface
+- Input validation and error handling
 
 ---
 
 ## Example Output
 
-========================================================
-WORKOUT HISTORY
+========================================================  
+WORKOUT HISTORY  
 [09/02/2026 12:02]
-Bench Press - 3x12 @ 100.0kg
-Pec Dec - 3x12 @ 50.0kg
-Tricep Pushdown - 3x12 @ 45.0kg
 
+Bench Press — 3x12 @ 100.0kg  
+Pec Dec — 3x12 @ 50.0kg  
+Tricep Pushdown — 3x12 @ 45.0kg  
 
 ---
 
@@ -39,26 +40,26 @@ Tricep Pushdown - 3x12 @ 45.0kg
 
 ## Project Purpose
 
-This project was built to:
+This project was developed to:
 
 - Strengthen Python development skills
-- Practise software design & data persistence
-- Create a portfolio-ready application
-- Serve as a foundation for future GUI/database expansion
+- Practise software architecture and data persistence
+- Build a portfolio-ready software application
+- Serve as a foundation for GUI and database expansion
 
 ---
 
 ## Planned Improvements
 
-- Edit / delete workouts
-- Session analytics & volume tracking
+- Edit and delete workout entries
+- Session analytics and volume tracking
 - SQLite database integration
-- Tkinter GUI interface
+- Tkinter graphical interface
 - Progress visualisation graphs
 
 ---
 
-## Author
+## Installation & Usage
 
-Lewis — Computer Science Student  
-Aspiring Software Developer building practical portfolio projects.
+1. Clone the repository:
+
